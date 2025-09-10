@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ServerMain",
+      "request": "launch",
+      "mainClass": "com.app.server.ServerMain",
+      "projectName": "server_b9dfa68b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ServerMain",
+      "request": "launch",
+      "mainClass": "com.app.server.ServerMain",
+      "projectName": "SERVER"
+    }
+  ]
+}
